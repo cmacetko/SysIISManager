@@ -1,0 +1,11 @@
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\bin\Debug\SysIISManager.exe.config
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\bin\Debug\SysIISManager.exe
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\bin\Debug\SysIISManager.pdb
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\bin\Debug\SysIISManager.xml
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Debug\SysIISManager.Principal.resources
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Debug\SysIISManager.Resources.resources
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Debug\SysIISManager.vbproj.GenerateResource.Cache
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Debug\SysIISManager.exe
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Debug\SysIISManager.xml
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Debug\SysIISManager.pdb
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Debug\SysIISManager.vbprojResolveAssemblyReference.cache

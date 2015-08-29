@@ -1,0 +1,10 @@
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\bin\Release\SysIISManager.exe.config
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\bin\Release\SysIISManager.exe
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\bin\Release\SysIISManager.pdb
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\bin\Release\SysIISManager.xml
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Release\SysIISManager.Principal.resources
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Release\SysIISManager.Resources.resources
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Release\SysIISManager.vbproj.GenerateResource.Cache
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Release\SysIISManager.exe
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Release\SysIISManager.xml
+I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Release\SysIISManager.pdb
