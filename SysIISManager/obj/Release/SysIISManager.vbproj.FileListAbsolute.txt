@@ -8,3 +8,7 @@ I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Release\SysIISManager.vbp
 I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Release\SysIISManager.exe
 I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Release\SysIISManager.xml
 I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Release\SysIISManager.pdb
+I:\GitHub\SysIISManager\SysIISManager\bin\Release\SysIISManager.exe.config
+I:\GitHub\SysIISManager\SysIISManager\obj\Release\SysIISManager.exe
+I:\GitHub\SysIISManager\SysIISManager\obj\Release\SysIISManager.xml
+I:\GitHub\SysIISManager\SysIISManager\obj\Release\SysIISManager.pdb
