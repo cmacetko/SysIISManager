@@ -9,3 +9,14 @@ I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Debug\SysIISManager.exe
 I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Debug\SysIISManager.xml
 I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Debug\SysIISManager.pdb
 I:\VB.Net\Desenvlvidos\SysIISManager\SysIISManager\obj\Debug\SysIISManager.vbprojResolveAssemblyReference.cache
+C:\AppsMobile\SysLogIIS\SysIISManager\SysIISManager\bin\Debug\SysIISManager.exe.config
+C:\AppsMobile\SysLogIIS\SysIISManager\SysIISManager\bin\Debug\SysIISManager.exe
+C:\AppsMobile\SysLogIIS\SysIISManager\SysIISManager\bin\Debug\SysIISManager.pdb
+C:\AppsMobile\SysLogIIS\SysIISManager\SysIISManager\bin\Debug\SysIISManager.xml
+C:\AppsMobile\SysLogIIS\SysIISManager\SysIISManager\obj\Debug\SysIISManager.vbprojResolveAssemblyReference.cache
+C:\AppsMobile\SysLogIIS\SysIISManager\SysIISManager\obj\Debug\SysIISManager.Principal.resources
+C:\AppsMobile\SysLogIIS\SysIISManager\SysIISManager\obj\Debug\SysIISManager.Resources.resources
+C:\AppsMobile\SysLogIIS\SysIISManager\SysIISManager\obj\Debug\SysIISManager.vbproj.GenerateResource.Cache
+C:\AppsMobile\SysLogIIS\SysIISManager\SysIISManager\obj\Debug\SysIISManager.exe
+C:\AppsMobile\SysLogIIS\SysIISManager\SysIISManager\obj\Debug\SysIISManager.xml
+C:\AppsMobile\SysLogIIS\SysIISManager\SysIISManager\obj\Debug\SysIISManager.pdb
